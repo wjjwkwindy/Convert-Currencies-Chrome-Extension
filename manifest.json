@@ -1,0 +1,10 @@
+{
+    "name": "货币转换器",
+    "description": "轻松转换您的货币单位",
+    "version": "0.1",
+    "browser_action": {
+        "default_popup": "convert.html",
+        "default_icon": "logo.png"
+    },
+    "manifest_version": 2
+}
